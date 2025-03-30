@@ -14,3 +14,5 @@
 ***Apps and platforms***
 1.Arduino IDE
 2.Blynk
+
+![Image](https://github.com/user-attachments/assets/d285624f-e049-4c62-abc4-971b9cd91212)
